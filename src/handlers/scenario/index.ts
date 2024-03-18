@@ -1,0 +1,1 @@
+export { getScenarioIdData } from "./getScenarioIdData";
